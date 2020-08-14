@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WarehouseInventoryApp</string>
+    <string name="main_activity_title">Warehouse Inventory App</string>
+    <string name="frozenItemFalse">No</string>
+    <string name="frozenItemTrue">Yes</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+</resources>
